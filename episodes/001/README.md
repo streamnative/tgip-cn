@@ -24,5 +24,5 @@
 
 ## Reference 
 
-![](/images/001.png)
+![](images/001.png)
 
