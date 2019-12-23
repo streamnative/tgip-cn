@@ -24,5 +24,5 @@
 
 ## Reference 
 
-![](image/001.png)
+![](https://github.com/streamnative/tgip-cn/blob/master/image/001.png)
 
