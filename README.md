@@ -12,4 +12,4 @@ If you have an idea for TGIP (China) please [open an issue in the TGIP-CN issue 
 We pick the episodes as we see fit with what's happening in the community.
 If we select your suggestion we will link back to your original work here!
 
-![](images/cover.png)
+![](image/cover.png)
