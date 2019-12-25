@@ -10,7 +10,7 @@ TGIP-CN, organized by StreamNative, is a weekly live video streaming about Apach
 
 * [List of episode](playlist.md): contains a list of all episodes.
 
-* [Recorded video](https://space.bilibili.com/391380821/channel/detail?cid=98214): we record every live streaming and upload them here.
+* [Recorded video link](https://space.bilibili.com/391380821/channel/detail?cid=98214): we record every live streaming and upload them here.
 
 ## Start an episode
 
