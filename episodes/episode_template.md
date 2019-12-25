@@ -1,21 +1,27 @@
-# Episode NN : $title
+# Basic information
 
-- Hosted by @sijie
-- Recording date
+- Topic:
 
-<!--- Thumbnailed embed of the video, av76210979 is the video id from the Bilibili url --->
-<!--- Image url is the link to the episode image --->
+- Domain/keyword:
 
-<a href="https://www.bilibili.com/video/av76210979" target="_blank"><img src="https://streamnative.io/images/meetup/pulsar-meetup-shanghai-11-16.png" border="10" /></a>
+- Instructor:
 
-## Table of Contents
+- Date:
 
-- 00:00:00 - Welcome to TGIP!
-- 00:00:00 - Week in Review
+- Time:
 
-## Show Notes
+- Duration:
 
+- Recorded video link:
 
-## Reference Links
+- Live streaming link: http://live.bilibili.com/21468418
 
+- Slide (optional):
 
+## Table of Content
+
+## Note
+
+## Reference 
+
+[insert an image here] 
