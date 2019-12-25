@@ -6,11 +6,11 @@ TGIP-CN, organized by StreamNative, is a weekly live video streaming about Apach
 
 * Time: every Sunday at 19:00 UTC.
 
-* [Live streaming link](https://live.bilibili.com/21468418)
+* [Live streaming link](https://live.bilibili.com/21468418): you can watch the Pulsar live streaming here.
 
 * [List of episode](playlist.md): contains a list of all episodes.
 
-* [Recorded video](https://space.bilibili.com/391380821/channel/detail?cid=98214): contains all recorded videos.
+* [Recorded video](https://space.bilibili.com/391380821/channel/detail?cid=98214): we record every live streaming and upload them here.
 
 ## Start an episode
 
