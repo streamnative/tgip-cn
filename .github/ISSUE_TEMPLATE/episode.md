@@ -69,9 +69,7 @@ Assign people to each role by filling @Handle in the following parentheses.
   
     - Tip: for **how to live stream on Bilibili with OBS**, see [here](https://docs.google.com/document/d/18D2Cm1eJa1EH84FTOrQoi94_57lcLLczBTq96ANlbSQ/edit).
 
-- [ ] [Instructor] Fill in the necessary information.
-  
-    ![](image/fill-in-info.png)
+- [ ] [Instructor] Fill in the necessary information, see [here](https://github.com/streamnative/tgip-cn/blob/master/image/fill-in-info.png).
   
 - [ ] [Instructor] Get everything tested well:
     
