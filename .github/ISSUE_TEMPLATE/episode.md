@@ -1,9 +1,10 @@
 ---
 name: episode
 about: Episode Checklist (used by Episode coordinator)
-title: "TGI Pulsar NNN: $title"
-labels: 'episode'
+title: 'TGI Pulsar NNN: $title'
+labels: ''
 assignees: ''
+
 ---
 
 > This template provides the checklist for scheduling an episode.
