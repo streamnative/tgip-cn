@@ -65,7 +65,7 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 - [ ] [Instructor] Set up live stream on Bilibili with OBS. 
   
-    - Note: if this is the first time for you to live stream, ask [Yu](mailto:yu@streamnative.io) to give you the username and password of StreamNative Bibili account.
+    - Note: if this is the first time for you to live stream, ask [Yu](mailto:yu@streamnative.io) to give you the username and password of StreamNative Bilibili account.
   
     - Tip: for **how to live stream on Bilibili with OBS**, see [here](https://docs.google.com/document/d/18D2Cm1eJa1EH84FTOrQoi94_57lcLLczBTq96ANlbSQ/edit).
 
