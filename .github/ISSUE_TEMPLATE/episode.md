@@ -47,21 +47,11 @@ Assign people to each role by filling @Handle in the following parentheses.
   
   - Platform:
 
-    - [ ] Pulsar mailing list
-
     - [ ] Pulsar Slack `#china` channel
-
-    - [ ] Pulsar Slack `#general` channel
   
     - [ ] Pulsar Slack `#tgip-cn` channel
-
-    - [ ] StreamNative Twitter with the hashtag `#TGIP-CN`
   
-    - [ ] StreamNative LinkedIn with the hashtag `#TGIP-CN`
-  
-    - [ ] Pulsar WeChat
-  
-    - [ ] StreamNative WeChat
+    - [ ] WeChat
 
 - [ ] [Instructor] Set up live stream on Bilibili with OBS. 
   
@@ -127,18 +117,8 @@ Assign people to each role by filling @Handle in the following parentheses.
   
   - Platform:
 
-    - [ ] Pulsar mailing list
-
     - [ ] Pulsar Slack `#china` channel
-
-    - [ ] Pulsar Slack `#general` channel
   
     - [ ] Pulsar Slack `#tgip-cn` channel
-
-    - [ ] StreamNative Twitter with the hashtag `#TGIP-CN`
   
-    - [ ] StreamNative LinkedIn with the hashtag `#TGIP-CN`
-  
-    - [ ] Pulsar WeChat
-  
-    - [ ] StreamNative WeChat
+    - [ ] WeChat
