@@ -101,6 +101,10 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 - [ ] [Instructor] Feel free to self merge.
 
+- [ ] [Coordinator] Write a recap or a tech blog about the episode.
+
+- [ ] [Technical writer] Improve Pulsar/SN doc based on the episode (if needed).
+
 - [ ] [Coordinator] Promote the episode with the following information to the following platforms.
 
   - Information:
@@ -116,11 +120,13 @@ Assign people to each role by filling @Handle in the following parentheses.
     - [ ] Duration
     
     - [ ] Recorded link
+
+    - [ ] Recap/tech blog link
   
   - Platform:
 
     - [ ] Pulsar Slack `#china` channel
-  
+
     - [ ] Pulsar Slack `#tgip-cn` channel
-  
+
     - [ ] WeChat
