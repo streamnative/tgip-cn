@@ -29,6 +29,8 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 - [ ] [Designer] Create an image for the episode and upload it to [image folder](https://github.com/streamnative/tgip-cn/tree/master/image).
 
+- [ ] [Designer] Create an image for promoting the episode and upload it to [image folder](https://github.com/streamnative/tgip-cn/tree/master/image).
+
 - [ ] [Coordinator] Publish an episode announcement with the following information to the following platforms.
 
   - Information:
