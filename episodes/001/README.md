@@ -16,7 +16,9 @@
 
 - Live streaming link: https://live.bilibili.com/21468418
 
-- Slide (optional):
+- Keynote: 
+
+- Study note link: https://github.com/streamnative/tgip-cn/blob/master/episodes/001/001-study-notes.md
 
 ## Table of Content
 
@@ -24,5 +26,5 @@
 
 ## Reference 
 
-![](https://github.com/streamnative/tgip-cn/blob/master/image/001.png)
+![](https://github.com/streamnative/tgip-cn/blob/master/image/001-promotion.png)
 
