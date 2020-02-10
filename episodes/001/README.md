@@ -3,12 +3,12 @@
 - Hosted by @sijie
 - Recording 02/08/2020
 
-![](cover.jpg)
+![](cover.png)
 
 ## Table of Content
 
 - 00:00:00 - Welcome to TGIP-CN!
-- 00:00:00 - Week in Review
+- 00:05:00 - Week in Review
 - 00:08:00 - Pulsar Basics
 
 ## Week in Review
@@ -67,3 +67,4 @@
 ## Reference 
 
 - Hackmd Notes: https://hackmd.io/eARaViEeR3qCXA1RZFnDwQ?view
+- Slides link: https://www.slidestalk.com/ApachePulsar/episode001

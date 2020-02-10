@@ -1,4 +1,4 @@
-# Episode 001: Pulsar Architecture
+# Episode 001: Pulsar Basics
 
 - Hosted by @sijieg
 - 02/09/2020
@@ -6,8 +6,8 @@
 ## Table of Contents
 
 - 00:00:00 - Welcome to TGIP-CN!
-- 00:00:00 - Week in Review
-
+- 00:05:00 - Week in Review
+- 00:08:00 - Pulsar Basics
 
 ## Week in Review
 
@@ -65,3 +65,5 @@
 
 ## Reference Links
 
+- Hackmd Notes: https://hackmd.io/eARaViEeR3qCXA1RZFnDwQ?view
+- Slides link: https://www.slidestalk.com/ApachePulsar/episode001
