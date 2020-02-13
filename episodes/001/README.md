@@ -69,4 +69,4 @@
 - Hackmd Notes: https://hackmd.io/eARaViEeR3qCXA1RZFnDwQ?view
 - Slides link: https://www.slidestalk.com/ApachePulsar/episode001
 - Recap: https://mp.weixin.qq.com/s/Y5kzNQMUjMKHW-ocAai6yg
-- Recorded video link:: https://b23.tv/av87830398
+- Recorded video link: https://b23.tv/av87830398
