@@ -1,6 +1,6 @@
 ---
 name: episode
-about: Episode checklist (used by coordinator, instructor, and designer)
+about: Episode checklist (used by coordinator, designer, host, and technical writer)
 title: 'Episode $number: $topic-name'
 labels: episode-task
 assignees: ''
@@ -17,15 +17,15 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 - [ ] Host: ()
 
+- [ ] Technical writer: (Yu Liu)
+
 ## Before an episode
  
 - [ ] [Host] Pick a topic from the [episode idea backlog](https://github.com/streamnative/tgip-cn/issues?q=is%3Aopen+is%3Aissue+label%3Aepisode-idea).
 
 - [ ] [Coordinator] Create a folder for the episode in the [episode folder](https://github.com/streamnative/tgip-cn/tree/master/episodes), name it in numeric order, and create a README with necessary information.
-  
-    **Example**
-    
-    001, 002, 003
+
+- [ ] [Coordinator] Fill in the necessary information on Bilibili, see [here](https://github.com/streamnative/tgip-cn/blob/master/image/fill-in-info.png).
 
 - [ ] [Designer] Create an image for the episode, send it to `cn_growth` channel for review, and upload it to [image folder](https://github.com/streamnative/tgip-cn/tree/master/image).
 
@@ -33,35 +33,33 @@ Assign people to each role by filling @Handle in the following parentheses.
 
   - Information:
 
-    - [ ] Topic
+    - Topic
 
-    - [ ] Host
+    - Host
   
-    - [ ] Date
+    - Date
 
-    - [ ] Time
+    - Time
   
-    - [ ] Duration
+    - Duration
     
-    - [ ] Live streaming link: https://live.bilibili.com/21468418 
+    - Live streaming link: https://live.bilibili.com/21468418 
   
   - Platform:
 
-    - [ ] Pulsar Slack `#china` channel
+    - Pulsar Slack `#china` channel
   
-    - [ ] Pulsar Slack `#tgip-cn` channel
+    - Pulsar Slack `#tgip-cn` channel
   
-    - [ ] WeChat (on Thursday, Friday, and Sunday)
+    - WeChat (on **Thursday, Friday, and Sunday**)
 
-- [ ] [Coordinator] Send a reminder to WeChat groups 1 hour before live streaming.
+- [ ] [Coordinator] Send a reminder to WeChat groups **1 hour before** live streaming.
 
 - [ ] [Host] Set up live stream on Bilibili with OBS. 
   
     - Note: if this is the first time for you to live stream, ask [Yu](mailto:yu@streamnative.io) to give you the username and password of StreamNative Bilibili account.
   
     - Tip: for **how to live stream on Bilibili with OBS**, see [here](https://docs.google.com/document/d/18D2Cm1eJa1EH84FTOrQoi94_57lcLLczBTq96ANlbSQ/edit).
-
-- [ ] [Coordinator] Fill in the necessary information, see [here](https://github.com/streamnative/tgip-cn/blob/master/image/fill-in-info.png).
   
 - [ ] [Host] Get everything tested well:
     
@@ -105,30 +103,32 @@ Assign people to each role by filling @Handle in the following parentheses.
 
   - Information:
 
-    - [ ] Topic
+    - Topic
 
-    - [ ] Host
+    - Host
   
-    - [ ] Date
+    - Date
 
-    - [ ] Time
+    - Time
   
-    - [ ] Duration
+    - Duration
     
-    - [ ] README link
+    - README link
+    
+    - Study note link
 
-    - [ ] Recorded video link
+    - Recorded video link
 
-    - [ ] Tech blog link
+    - Tech blog link
 
-    - [ ] Slide link
+    - Slide link
   
   - Platform:
 
-    - [ ] Pulsar Slack `#china` channel
+    - Pulsar Slack `#china` channel
 
-    - [ ] Pulsar Slack `#tgip-cn` channel
+    - Pulsar Slack `#tgip-cn` channel
 
-    - [ ] WeChat
+    - WeChat
 
 - [ ] [Coordinator] Make a summary, add suggetsions for the episode [here](https://docs.google.com/document/d/1QyHOY5r4uV-uhntVYkp8SM8XfnASmtqG9VahaueSBYY/edit#), and share it to `cn_growth` channel on Monday.
