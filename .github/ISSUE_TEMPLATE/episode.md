@@ -44,6 +44,8 @@ Assign people to each role by filling @Handle in the following parentheses.
     - Duration
     
     - Live streaming link: https://live.bilibili.com/21468418 
+    
+    - Zoom meeting link (if any)
   
   - Platform:
 
