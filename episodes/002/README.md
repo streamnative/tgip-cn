@@ -21,7 +21,7 @@ xxxxxxx
 
 ## Reference 
 
-- Hackmd Notes: 
-- Slides link: 
+- Study note:
+- Recorded video: 
 - Recap: 
-- Recorded video link:
+- Slide: 
