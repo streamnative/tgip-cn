@@ -1,7 +1,7 @@
 # Episode 002: Message Lifecycle
 
 - Hosted by @sijie
-- Recording 02/16/2020
+- Recorded on 02/16/2020
 
 ![](/image/002-promotion.png)
 
