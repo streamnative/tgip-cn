@@ -11,25 +11,23 @@ Check the following items when you plan to start an episode.
 
 Assign people to each role by filling @Handle in the following parentheses.
 
-- [ ] Coordinator: ()  
+- [ ] Coordinator: (Yu Su)  
 
-- [ ] Instructor: ()
+- [ ] Designer: (Cunjie Gan)
 
-- [ ] Designer: ()
+- [ ] Host: ()
 
 ## Before an episode
  
-- [ ] [Instructor] Pick a topic from the [episode idea backlog](https://github.com/streamnative/tgip-cn/issues?q=is%3Aopen+is%3Aissue+label%3Aepisode-idea).
+- [ ] [Host] Pick a topic from the [episode idea backlog](https://github.com/streamnative/tgip-cn/issues?q=is%3Aopen+is%3Aissue+label%3Aepisode-idea).
 
-- [ ] [Instructor] Create a folder for the episode in the [episode folder](https://github.com/streamnative/tgip-cn/tree/master/episodes) and name it in numeric order.
+- [ ] [Coordinator] Create a folder for the episode in the [episode folder](https://github.com/streamnative/tgip-cn/tree/master/episodes), name it in numeric order, and create a README with necessary information.
   
     **Example**
     
     001, 002, 003
 
-- [ ] [Designer] Create an image for the episode and upload it to [image folder](https://github.com/streamnative/tgip-cn/tree/master/image).
-
-- [ ] [Designer] Create an image for promoting the episode and upload it to [image folder](https://github.com/streamnative/tgip-cn/tree/master/image).
+- [ ] [Designer] Create an image for the episode, send it to `cn_growth` channel for review, and upload it to [image folder](https://github.com/streamnative/tgip-cn/tree/master/image).
 
 - [ ] [Coordinator] Publish an episode announcement with the following information to the following platforms.
 
@@ -37,7 +35,7 @@ Assign people to each role by filling @Handle in the following parentheses.
 
     - [ ] Topic
 
-    - [ ] Instructor
+    - [ ] Host
   
     - [ ] Date
 
@@ -53,17 +51,19 @@ Assign people to each role by filling @Handle in the following parentheses.
   
     - [ ] Pulsar Slack `#tgip-cn` channel
   
-    - [ ] WeChat
+    - [ ] WeChat (on Thursday, Friday, and Sunday)
 
-- [ ] [Instructor] Set up live stream on Bilibili with OBS. 
+- [ ] [Coordinator] Send a reminder to WeChat groups 1 hour before live streaming.
+
+- [ ] [Host] Set up live stream on Bilibili with OBS. 
   
     - Note: if this is the first time for you to live stream, ask [Yu](mailto:yu@streamnative.io) to give you the username and password of StreamNative Bilibili account.
   
     - Tip: for **how to live stream on Bilibili with OBS**, see [here](https://docs.google.com/document/d/18D2Cm1eJa1EH84FTOrQoi94_57lcLLczBTq96ANlbSQ/edit).
 
-- [ ] [Instructor] Fill in the necessary information, see [here](https://github.com/streamnative/tgip-cn/blob/master/image/fill-in-info.png).
+- [ ] [Coordinator] Fill in the necessary information, see [here](https://github.com/streamnative/tgip-cn/blob/master/image/fill-in-info.png).
   
-- [ ] [Instructor] Get everything tested well:
+- [ ] [Host] Get everything tested well:
     
     - Network
     
@@ -71,37 +71,33 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 ## During an episode
 
-- [ ] [Instructor] Record the episode with OBS.
+- [ ] [Host] Record the episode with OBS.
   
-- [ ] [Instructor] Make notes with HackMD.
+- [ ] [Host] Make notes with HackMD.
 
-- [ ] [Instructor] Interact with the audience by using Bilibili **Live Chat** feature. 
+- [ ] [Host] Interact with audience by using Bilibili **Live Chat** feature. 
+
+- [ ] [Coordinator] Interact with audience and answer questions, keep tracking of data
 
 ## After an episode
 
-- [ ] [Instructor] Upload the recorded video to StreamNative Bilibili account.
+- [ ] [Coordinator] Upload the recorded video to StreamNative Bilibili and Tencent.
   
-  - Set the [image](https://github.com/streamnative/tgip-cn/tree/master/image) as the cover image for this episode.
+  - Set the [image](https://github.com/streamnative/tgip-cn/tree/master/image) as the cover image for this episode if possible.
   
   - Add this video to `TGIP-CN` playlist.
   
   - Add other additional information, such as title, description, and so on.
 
-- [ ] [Instructor] Add a `README.md` for the episode. 
+- [ ] [Coordinator] Ask inputs from the host and fill in the `README.md`.
   
     [Here](https://github.com/streamnative/tgip-cn/blob/master/episodes/episode_template.md) is a template.
 
-- [ ] [Instructor] Upload the notes to the episode folder and name it with like the following:
-  
-  **Example**
+    [Here](https://github.com/streamnative/tgip-cn/blob/master/episodes/002/README.md) is an example.
 
-  001-notes.md, 002-notes.md
+- [ ] [Coordinator] Add the episode to the [`playlist.md`](https://github.com/streamnative/tgip-cn/blob/master/playlist.md).
 
-- [ ] [Instructor] Add the episode to the [`playlist.md`](https://github.com/streamnative/tgip-cn/blob/master/playlist.md).
-
-- [ ] [Instructor] Feel free to self merge.
-
-- [ ] [Coordinator] Write a recap or a tech blog about the episode.
+- [ ] [Coordinator] Write a **tech blog** about the episode.
 
 - [ ] [Technical writer] Improve Pulsar/SN doc based on the episode (if needed).
 
@@ -111,7 +107,7 @@ Assign people to each role by filling @Handle in the following parentheses.
 
     - [ ] Topic
 
-    - [ ] Instructor
+    - [ ] Host
   
     - [ ] Date
 
@@ -119,9 +115,13 @@ Assign people to each role by filling @Handle in the following parentheses.
   
     - [ ] Duration
     
-    - [ ] Recorded link
+    - [ ] README link
 
-    - [ ] Recap/tech blog link
+    - [ ] Recorded video link
+
+    - [ ] Tech blog link
+
+    - [ ] Slide link
   
   - Platform:
 
@@ -130,3 +130,5 @@ Assign people to each role by filling @Handle in the following parentheses.
     - [ ] Pulsar Slack `#tgip-cn` channel
 
     - [ ] WeChat
+
+- [ ] [Coordinator] Make a summary, add suggetsions for the episode [here](https://docs.google.com/document/d/1QyHOY5r4uV-uhntVYkp8SM8XfnASmtqG9VahaueSBYY/edit#), and share it to `cn_growth` channel on Monday.
