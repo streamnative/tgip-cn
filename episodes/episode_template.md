@@ -1,27 +1,27 @@
-# Basic information
+# Episode xxx: xxx
 
-- Topic:
+- Hosted by @
+- Recorded on xx/xx/xx
 
-- Domain/keyword:
-
-- Instructor:
-
-- Date:
-
-- Time:
-
-- Duration:
-
-- Recorded video link:
-
-- Live streaming link: http://live.bilibili.com/21468418
-
-- Slide (optional):
+![](/image/xx.png)
 
 ## Table of Content
 
-## Note
+- 00:00:00 - xxxx
+- 00:05:00 - xxxx
+- 00:08:00 - xxxx
+
+## Week in Review
+
+xxxxxx
+
+## Show Notes
+
+xxxxxxx
 
 ## Reference 
 
-[insert an image here] 
+- Study note:
+- Recorded video: 
+- Recap: 
+- Slide: 
