@@ -21,7 +21,7 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 ## Before an episode
  
-- [ ] [Host] Pick a topic from the [episode idea backlog](https://github.com/streamnative/tgip-cn/issues?q=is%3Aopen+is%3Aissue+label%3Aepisode-idea).
+- [ ] [Host] Pick a topic from the [episode idea backlog](https://github.com/streamnative/tgip-cn/issues?q=is%3Aopen+is%3Aissue+label%3Aepisode-idea) and [create a epispde issue](https://github.com/streamnative/tgip-cn/issues/new?assignees=&labels=episode-task&template=episode.md&title=Episode+%24number%3A+%24topic-name).
 
 - [ ] [Coordinator] Create a folder for the episode in the [episode folder](https://github.com/streamnative/tgip-cn/tree/master/episodes), name it in numeric order, and create a README with necessary information.
 
