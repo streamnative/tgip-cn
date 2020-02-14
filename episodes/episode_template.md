@@ -23,5 +23,5 @@ xxxxxxx
 
 - Study note:
 - Recorded video: 
-- Recap: 
+- Tech blog: 
 - Slide: 
