@@ -92,6 +92,8 @@ Assign people to each role by filling @Handle in the following parentheses.
     [Here](https://github.com/streamnative/tgip-cn/blob/master/episodes/episode_template.md) is a template.
 
     [Here](https://github.com/streamnative/tgip-cn/blob/master/episodes/002/README.md) is an example.
+    
+- [ ] [Coordinator] Upload the slide to [slidestalk](https://www.slidestalk.com/).
 
 - [ ] [Coordinator] Add the episode to the [`playlist.md`](https://github.com/streamnative/tgip-cn/blob/master/playlist.md).
 
