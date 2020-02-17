@@ -30,10 +30,9 @@
     - Message Backlog
     -  Storage Size
 
-
 ## Reference 
 
 - Study note: https://hackmd.io/wel3JvJ-RhmWgT1QFPle0A
-- Recorded video: 
+- Recorded video: https://b23.tv/av87830398/p2
 - Tech blog: 
 - Slide: https://www.slidestalk.com/ApachePulsar/tgip002
