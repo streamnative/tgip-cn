@@ -3,11 +3,11 @@
 - Hosted by @sijie
 - Recorded on 02/16/2020
 
-![](/image/002-promotion.png)
+![](/image/002.png)
 
 ## Table of Content
 
-- 00:10:00 - Week in review
+- 00:00:10 - Week in review
 - 00:03:40 - Data Lifecycle
 
 ## Week in Review
@@ -34,5 +34,5 @@
 
 - Study note: https://hackmd.io/wel3JvJ-RhmWgT1QFPle0A
 - Recorded video: https://b23.tv/av87830398/p2
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/DdNwuCISdH6lxMfFSW7asg
 - Slide: https://www.slidestalk.com/ApachePulsar/tgip002
