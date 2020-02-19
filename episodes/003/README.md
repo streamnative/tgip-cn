@@ -3,7 +3,7 @@
 - Hosted by @sijie
 - Recorded on 02/23/2020
 
-![](/image/002.png)
+![](/image/003.jpg)
 
 ## Table of Content
 
@@ -13,7 +13,7 @@
 ## Week in Review
 
 - TGIP-CN: https://github.com/streamnative/tgip-cn
-xxxxxxx
+
 
 ## Show Notes
 
