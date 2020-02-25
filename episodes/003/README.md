@@ -9,6 +9,7 @@
 
 - 00:00:30 - Week in review
 - 00:02:45 - Topic Discovery, ServiceUrl and Cluster
+- 00:52:58 - Q&A
 
 ## Week in Review
 
@@ -32,5 +33,5 @@
 
 - Study note: https://hackmd.io/wpQHzdpNRW6FVWq-r35-6Q?view
 - Recorded video: https://b23.tv/av87830398/p3
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/h0e5-03c5qHlPsswGexScg
 - Slide: https://www.slidestalk.com/ApachePulsar/tgip003
