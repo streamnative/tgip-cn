@@ -7,18 +7,26 @@
 
 ## Table of Content
 
-- 00:00:30 - Week in review
-- 00:02:45 - xxxxx
+- 00:00:00 - Welcome to TGIP-CN!
+- 00:02:30 - Geo Replication
+- 00:18:40 - Demo of Configuration store
+- 00:51:12 - Demo 2
+- 01:06:00 - Q&A
 
 ## Week in Review
 
 - TGIP-CN: https://github.com/streamnative/tgip-cn
-- Pulsar changes
-    - xxxxxx
+- 2.5.1
 
 ## Show Notes
 
-xxxxx
+- pulsarctl
+```
+brew install pulsarctl
+```
+- understand zookeeper structure
+- geo replication with global zookeeper
+- geo replication without global zookeeper
 
 ## Reference 
 
