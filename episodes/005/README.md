@@ -3,7 +3,7 @@
 - Hosted by @sijie
 - Recorded on 03/08/2020
 
-![](/image/005.jpg)
+![](/image/005.png)
 
 ## Table of Content
 
