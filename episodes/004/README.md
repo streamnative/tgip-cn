@@ -32,5 +32,5 @@ brew install pulsarctl
 
 - Study note: https://hackmd.io/zDke7VNeQOup2qe6qVMBEA?view
 - Recorded video: https://b23.tv/av87830398/p4
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/Qpk3uFP1iIj2oUISPPyeZQ
 - Slide: https://www.slidestalk.com/ApachePulsar/tgip004
