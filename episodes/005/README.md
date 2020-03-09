@@ -8,7 +8,7 @@
 ## Table of Content
 
 - 00:00:00 - Welcome to TGIP-CN!
-
+- 00:02:00 - Week in Review
 
 ## Week in Review
 
@@ -17,7 +17,33 @@
 
 ## Show Notes
 
-xxxxxx
+- Learn
+  - Component Dependencies
+    - ZooKeeper
+    - BookKeeper
+       - Bookie
+       - AutoRecovery
+    - Broker
+    - Proxy
+- Network Connectivities
+  - ZooKeeper <-> ZooKeeper
+  - Bookie <-> ZooKeeper
+  - AutoRecovery <-> ZooKeeper
+  - AutoRecovery <-> Bookie
+  - Broker <-> ZooKeeper
+  - Broker <-> Bookie
+  - Broker <-> Broker
+- Startup Sequences
+  - ZooKeeper
+  - Cluster metadata setup
+  - Bookies
+  - Brokers
+  - Proxies
+- Monitoring Stack
+  - Prometheus
+  - Grafana
+  - Pulsar Manager
+- Hands-on: https://github.com/streamnative/pulsar-tutorials
 
 ## Reference 
 
