@@ -47,7 +47,4 @@
 
 ## Reference 
 
-- Study note: https:https://hackmd.io/oo1zy_XARMybULcYzCtSjA?view
-- Recorded video: https://b23.tv/av87830398/p5
-- Tech blog: 
-- Slide: https://www.slidestalk.com/ApachePulsar/tgip005
+- Study note: https://hackmd.io/oo1zy_XARMybULcYzCtSjA?view
