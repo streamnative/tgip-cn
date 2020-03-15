@@ -17,7 +17,21 @@
 
 ## Show Notes
 
-xxxxxx
+- Concepts
+    - Ledger
+        - API
+        - Metadata
+    - Entry
+        - Data
+        - API
+- Architecture
+    - Metadata Store
+    - Bookie
+        - API
+        - Implementation
+    - Client
+- Data Flow
+    - Client
 
 ## Reference 
 
