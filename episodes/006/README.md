@@ -38,4 +38,3 @@
 - Study note: https://hackmd.io/oV9Dc29TRqSK5iq9Yz8YCA?sync=&type=
 - Recorded video: https://b23.tv/av87830398/p6
 - Tech blog: 
-- Slide: https://www.slidestalk.com/ApachePulsar/tgip006
