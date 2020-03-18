@@ -36,5 +36,5 @@
 ## Reference 
 
 - Study note: https://hackmd.io/oV9Dc29TRqSK5iq9Yz8YCA?sync=&type=
-- Recorded video: https://b23.tv/av87830398/p6
+- Recorded video: https://b23.tv/av87830398/p5
 - Tech blog: https://mp.weixin.qq.com/s/26Xp1MoQ1fhPAuJSbi9xkw
