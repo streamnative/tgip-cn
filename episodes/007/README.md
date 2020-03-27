@@ -42,4 +42,4 @@
 - DaemonSet: https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
 - Study note: https://hackmd.io/RX9OSGJxT5yYn2GLIvYH8A
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=6
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/J57zJCbWZnlHpDw_y7toWw
