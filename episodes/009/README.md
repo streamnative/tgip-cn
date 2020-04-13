@@ -16,5 +16,5 @@ xxxxxxx
 
 ## Reference 
 
-- Recorded video:
+- Recorded video: https://b23.tv/BV1T741147B6/p7
 - Tech blog: 
