@@ -8,7 +8,9 @@
 ## Table of Content
 
 - 00:00:00 - Introduction
-
+- 00:12:20 - Basic concepts
+- 00:30:00 - Writing
+- 01:10:00 - Reading
 
 ## Show Notes
 
@@ -51,4 +53,4 @@
 ## Reference 
 
 - Recorded video: https://b23.tv/BV1T741147B6/p7
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/L1Cnw9JuGiquvAkrVRPS7Q
