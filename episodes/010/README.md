@@ -3,7 +3,7 @@
 - Hosted by Sijie
 - Recorded on 04/19/2020
 
-![](/image/010.png)
+![](/image/TGIP-CN-10.png)
 
 ## Table of Content
 
