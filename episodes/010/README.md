@@ -12,9 +12,16 @@
 
 ## Show Notes
 
-xxxxxxx
+- What's Apache Pulsar ?
+- Why KoP?
+- Introduction of protocol handler
+- Kafka VS Pulsar, the protocol version
+- How we implement KoP
+- Demo
+- Roadmap
+- Q&A
 
 ## Reference 
 
-- Recorded video:
+- Recorded video: https://b23.tv/BV1T741147B6/p9
 - Tech blog: 
