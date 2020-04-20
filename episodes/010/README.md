@@ -8,7 +8,10 @@
 ## Table of Content
 
 - 00:00:00 - Introduction
-
+- 00:04:30 - What's Apache Pulsar ?
+- 00:07:55 - Why KoP？
+- 00:43:50 - Demo
+- 01:03:00 - Q&A
 
 ## Show Notes
 
