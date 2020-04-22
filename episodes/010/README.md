@@ -27,4 +27,4 @@
 ## Reference 
 
 - Recorded video: https://b23.tv/BV1T741147B6/p9
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/wPR38tPDiY0MkUdVQKCo4g
