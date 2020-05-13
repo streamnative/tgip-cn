@@ -41,4 +41,4 @@
 ## Reference 
 
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=10
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/Y1ngRHv9ENFsH_zEaUB5KQ
