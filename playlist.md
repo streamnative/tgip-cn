@@ -15,7 +15,9 @@ Time | Topic | Host
 04/12 | [009: Pulsar performance tuning](episodes/009/README.md) | Penghui Li
 04/19 | [010: Protocol Handler & Kafka-on-Pulsar](episodes/010/README.md) | Sijie Guo
 05/10 | [011: Deep dive into authentication and authorization](episodes/011/README.md) | Sijie Guo
-05/17 | [010: Understand Pulsar Schema](episodes/012/README.md) | Sijie Guo
+05/17 | [012: Understand Pulsar Schema](episodes/012/README.md) | Sijie Guo
+05/24 | [013: Queuing and Streaming-Learn Pulsar Subscription Types](episodes/013/README.md) | Sijie Guo
+05/31 | [014: Apache Pulsar 在腾讯计费跨城场景下的应用](episodes/014/README.md) | Dezhi Liu
 
 
 
