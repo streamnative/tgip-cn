@@ -18,4 +18,4 @@
 ## Reference 
 
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=14
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/zPOQ84GavY5ZlseOss6wkw
