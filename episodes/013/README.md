@@ -25,4 +25,4 @@
 ## Reference 
 
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=12
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/z5A8a5i8_oNWpuxVgfWCjg
