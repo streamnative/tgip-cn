@@ -19,6 +19,7 @@ Time | Topic | Host
 05/24 | [013: Queuing and Streaming-Learn Pulsar Subscription Types](episodes/013/README.md) | Sijie Guo
 05/31 | [014: Apache Pulsar 在腾讯计费跨城场景下的应用](episodes/014/README.md) | Dezhi Liu
 07/05 | [015: Pulsar Summit 精华版中文（一）](episodes/015/README.md) | Sijie Guo
+07/12 | [016: Pulsar Summit 精华版中文（二）](episodes/016/README.md) | Jia Zhai
 
 
 
