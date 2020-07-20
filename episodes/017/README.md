@@ -7,9 +7,15 @@
 
 ## Table of Content
 
-- 00:00:00 - Opening
-- 00:02:40 - What's new in 2.6.0?
-- 00:65:00 - Q&A
+- 00:00:00 - Week review
+- 00:05:00 - PIP 37: Large message size support
+- 00:09:35 - PIP 39: Namespace change events
+- 00:24:30 - PIP 54: Acknowledgement at batch index
+- 00:36:00 - PIP 58: Support setting custom retry delay
+- 00:44:30 - Key-shared
+- 00:53:05 - Support triggering ledger rollover when maxLedgerRolloverTimeMinutes is met
+- 00:59:50 - Pulsar Client+SQL
+- 01:08:00 - Q&A
 
 ## Reference 
 
