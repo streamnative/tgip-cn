@@ -21,7 +21,7 @@ Time | Topic | Host
 07/05 | [015: Pulsar Summit 精华版中文（一）](episodes/015/README.md) | Sijie Guo
 07/12 | [016: Pulsar Summit 精华版中文（二）](episodes/016/README.md) | Jia Zhai
 07/19 | [017: What's new in Pulsar 2.6.0](episodes/017/README.md) | Penghui Li
-
+07/24 | [018: Pulsar Functions Deep Dive](episodes/018/README.md) | Xiaolong Ran
 
 
 
