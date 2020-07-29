@@ -7,11 +7,15 @@
 
 ## Table of Content
 
-- 00:00:00 - 
-- 00:02:40 - 
-- 00:65:00 - Q&A
+- 00:01:00 - Functions description  
+- 00:13:20 - Submission Workflow
+- 00:37:00 - Scheduling Workflow
+- 00:45:00 - Execution Workflow
+- 00:52:00 - Java Instance
+- 00:55:00 - Future WorkQ&A
+- 01:02:00 - Q&A
 
 ## Reference 
 
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=17
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/yHX9Pt0239nH6yAFj8LSYQ
