@@ -1,5 +1,7 @@
 This is the official repository for TGIP-CN.
 
+You can click this [playlist](https://github.com/streamnative/tgip-cn/blob/master/playlist.md) to check out all the live stream.
+
 ## Basic information
 
 TGIP-CN, organized by StreamNative, is a weekly live video streaming about Apache Pulsar in Chinese.
