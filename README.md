@@ -1,16 +1,14 @@
 This is the official repository for TGIP-CN.
 
-You can click this [playlist](https://github.com/streamnative/tgip-cn/blob/master/playlist.md) to check out all the live stream.
+For a complete list of episode ideas, refer to [playlist](/playlist.md).
 
 ## Basic information
 
-TGIP-CN, organized by StreamNative, is a weekly live video streaming about Apache Pulsar in Chinese.
+TGIP-CN is organized by StreamNative. TGIP is a weekly live streaming about Apache Pulsar in Chinese.
 
 * Time: every Sunday at 11:00 CST.
 
 * [Live streaming link](https://live.bilibili.com/21468418): you can watch the Pulsar live streaming here.
-
-* [List of episode](playlist.md): contains a list of all episodes.
 
 * [Recorded video link](https://space.bilibili.com/391380821/channel/detail?cid=98214): we record every live streaming and upload them here.
 
