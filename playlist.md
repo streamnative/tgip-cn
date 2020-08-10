@@ -23,6 +23,7 @@ Time | Topic | Host
 07/19 | [017: What's new in Pulsar 2.6.0](episodes/017/README.md) | Penghui Li
 07/24 | [018: Pulsar Functions Deep Dive](episodes/018/README.md) | Xiaolong Ran
 08/02 | [019: Interactive Querying of Streams Using Apache Pulsar](episodes/019/README.md) | Ran Gao
+08/09 | [020: Understand Namespace Policy](episodes/020/README.md) | Yong Zhang
 
 
 
