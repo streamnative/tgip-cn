@@ -17,8 +17,6 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 - [ ] Host: ()
 
-- [ ] Technical writer: (Yu Liu)
-
 ## Before an episode
  
 - [ ] [Host] Pick a topic from the [episode idea backlog](https://github.com/streamnative/tgip-cn/issues?q=is%3Aopen+is%3Aissue+label%3Aepisode-idea) and [create a epispde issue](https://github.com/streamnative/tgip-cn/issues/new?assignees=&labels=episode-task&template=episode.md&title=Episode+%24number%3A+%24topic-name).
@@ -45,37 +43,19 @@ Assign people to each role by filling @Handle in the following parentheses.
     
     - Live streaming link: https://live.bilibili.com/21468418 
     
-    - Zoom meeting link (if any)
+    - Shishuo meeting link: https://www.slidestalk.com/m/xxx
   
   - Platform:
+  
+    - WeChat  group (on **Thursday, Friday, and Sunday**)
 
-    - Pulsar Slack `#china` channel
-  
-    - Pulsar Slack `#tgip-cn` channel
-  
-    - WeChat (on **Thursday, Friday, and Sunday**)
+- [ ] [Coordinator] Send the above sign-up Shishuo link to the host, make sure he/she is signed up right. 
 
 - [ ] [Coordinator] Send a reminder to WeChat groups **1 hour before** live streaming.
 
-- [ ] [Host] Set up live stream on Bilibili with OBS. 
-  
-    - Note: if this is the first time for you to live stream, ask [Yu](mailto:yu@streamnative.io) to give you the username and password of StreamNative Bilibili account.
-  
-    - Tip: for **how to live stream on Bilibili with OBS**, see [here](https://docs.google.com/document/d/18D2Cm1eJa1EH84FTOrQoi94_57lcLLczBTq96ANlbSQ/edit).
-  
-- [ ] [Host] Get everything tested well:
-    
-    - Network
-    
-    - Live streaming device, such as camera, audio, and so on
-
+- [ ] [Host+Coordinator] Test live stream on Shishuo with above Shishuo link, to make sure everything tested well (screen sharing + sound + bilibili live stream).
+   
 ## During an episode
-
-- [ ] [Host] Record the episode with OBS.
-  
-- [ ] [Host] Make notes with HackMD.
-
-- [ ] [Host] Interact with audience by using Bilibili **Live Chat** feature. 
 
 - [ ] [Coordinator] Interact with audience and answer questions, keep tracking of data
 
@@ -99,40 +79,18 @@ Assign people to each role by filling @Handle in the following parentheses.
 
 - [ ] [Coordinator] Add the episode to the [`playlist.md`](https://github.com/streamnative/tgip-cn/blob/master/playlist.md).
 
-- [ ] [Coordinator] Write a **tech blog** about the episode.
+- [ ] [Coordinator] Write a recap about the episode.
 
-- [ ] [Technical writer] Improve Pulsar/SN doc based on the episode (if needed).
-
-- [ ] [Coordinator] Promote the episode with the following information to the following platforms.
+- [ ] [Coordinator] Promote the episode with the following information to the WeChat or other Chinese social platforms.
 
   - Information:
 
     - Topic
 
     - Host
-  
-    - Date
-
-    - Time
-  
-    - Duration
-    
-    - README link
-    
-    - Study note link
 
     - Recorded video link
 
     - Tech blog link
 
     - Slide link
-  
-  - Platform:
-
-    - Pulsar Slack `#china` channel
-
-    - Pulsar Slack `#tgip-cn` channel
-
-    - WeChat
-
-- [ ] [Coordinator] Make a summary, add suggetsions for the episode [here](https://docs.google.com/document/d/1QyHOY5r4uV-uhntVYkp8SM8XfnASmtqG9VahaueSBYY/edit#), and share it to `cn_growth` channel on Monday.
