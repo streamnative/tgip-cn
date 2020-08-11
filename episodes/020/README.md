@@ -17,4 +17,4 @@
 ## Reference 
 
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=19
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/aB0s3CPEcEHCweRJxfDLaA
