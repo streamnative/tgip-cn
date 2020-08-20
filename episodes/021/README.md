@@ -7,14 +7,11 @@
 
 ## Table of Content
 
-- 00:00:00 - Week in review
-- 00:09:45 -
-- 00:16:50 - 
-- 00:24:00 -
-- 00:29:30 -
-- 00:35:30 - 
+- 00:00:00 - Introduction
+- 00:02:00 - PIP update
+- 00:14:00 - Version update
 
 ## Reference 
 
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=20
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/WecYpAmkKvyaAOWgH1hK4Q
