@@ -7,14 +7,12 @@
 
 ## Table of Content
 
-- 00:00:00 - Introduction
-- 00:02:00 - PIP update
-- 00:14:00 - Version update
-- 00:24:00 -
-- 00:29:30 -
-- 00:35:30 - 
+- 00:02:00 - Week review
+- 00:14:00 - Geo replication
+- 00:22:00 - Replicated subscription
+- 00:47:30 - Q&A
 
 ## Reference 
 
 - Recorded video: https://www.bilibili.com/video/BV1T741147B6?p=21
-- Tech blog: 
+- Tech blog: https://mp.weixin.qq.com/s/uiS9POboM_IqYSHPeIuE-g
