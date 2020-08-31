@@ -26,6 +26,8 @@ Time | Topic | Host
 08/09 | [020: Understand Namespace Policy](episodes/020/README.md) | Yong Zhang
 08/16 | [021: Pulsar 2.6.1 版本发布前瞻](episodes/021/README.md) | Xiaolong Ran
 08/23 | [022: 复制订阅相关的二三事](episodes/022/README.md) | Penghui Li
+08/30 | [023: Apache Pulsar 在 BIGO 的实践分享](episodes/023/README.md) | Hang Chen
+
 
 
 
