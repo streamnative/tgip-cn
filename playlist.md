@@ -29,6 +29,7 @@ Time | Topic | Host
 08/30 | [023: Apache Pulsar 在 BIGO 的实践分享](episodes/023/README.md) | Hang Chen
 09/06 | [024: 基于 Pulsar 架构的移动云 AMQP 消息队列设计与应用](episodes/024/README.md) | Hao Zhang
 09/13 | [025: Apache Pulsar 问答专场](episodes/025/README.md) | Penghui Li
+10/11 | [026: Pulsar Flink 连接器的介绍与应用](episodes/026/README.md) | Jianyun Zhao
 
 
 
