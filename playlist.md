@@ -31,7 +31,7 @@ Time | Topic | Host
 09/13 | [025: Apache Pulsar 问答专场](episodes/025/README.md) | Penghui Li
 10/11 | [026: Pulsar Flink 连接器的介绍与应用](episodes/026/README.md) | Jianyun Zhao
 10/18 | [027: Pulsar 管理工具的介绍和使用](episodes/027/README.md) | Guangning E
-
+12/13 | [027: Apache Pulsar 延时队列设计与实现](episodes/028/README.md) | Penghui Li
 
 
 
