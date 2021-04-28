@@ -32,8 +32,8 @@ Time | Topic | Host
 10/11 | [026: Pulsar Flink 连接器的介绍与应用](episodes/026/README.md) | Jianyun Zhao
 10/18 | [027: Pulsar 管理工具的介绍和使用](episodes/027/README.md) | Guangning E
 12/13 | [028: Apache Pulsar 延时队列设计与实现](episodes/028/README.md) | Penghui Li
-02/28 | [029: Apache Pulsar 2021 规划与展望](episodes/029/README.md) | Jia Zhai
-03/07 | [030: Pulsar Function Mesh 新功能与特性](episodes/030/README.md) | Neng Lu
+
+
 
 
 
